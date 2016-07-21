@@ -1,6 +1,57 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at ~/workspace/lane_changing/.virtualenv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="$USER_HOME$/workspace/lane_changing/.virtualenv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/workspace/lane_changing/.virtualenv/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/workspace/lane_changing/.virtualenv/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/workspace/lane_changing/.virtualenv/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/workspace/lane_changing/.virtualenv/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1957608154" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
       <name value="Python 3.5.1 virtualenv at ~/workspace/lane_changing/.venv" />
       <type value="Python SDK" />
       <version value="Python 3.5.1" />
@@ -9,32 +60,10 @@
         <classPath>
           <root type="composite">
             <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5/plat-linux" />
+            <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5/plat-darwin" />
             <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
             <root type="simple" url="file://$USER_HOME$/workspace/lane_changing/.venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/657584694" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/lane_changing" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.1 virtualenv at ~/workspace/lane_changing/.venv (1)" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.1" />
-      <homePath value="$USER_HOME$/workspace/lane_changing/.venv/bin/python3.5" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5/plat-linux" />
-            <root type="simple" url="file://$USER_HOME$/.anyenv/envs/pyenv/versions/3.5.1/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file://$USER_HOME$/workspace/lane_changing/.venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/759832388" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1609186543" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
           </root>
         </classPath>

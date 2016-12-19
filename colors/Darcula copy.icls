@@ -7,4 +7,11 @@
   <colors>
     <option name="WHITESPACES" value="eaff" />
   </colors>
+  <attributes>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

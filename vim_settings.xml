@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/github.com/wassen/nippo.vim/src/nippo.py" timestamp="1500742682569">
-        <mark key="[" line="76" column="14" />
-        <mark key="]" line="76" column="15" />
-        <mark key="." line="76" column="15" />
-        <mark key="^" line="76" column="15" />
+      <file name="$USER_HOME$/workspace/github.com/wassen/nippo.vim/src/nippo.py" timestamp="1500743027706">
+        <mark key="[" line="73" column="28" />
+        <mark key="]" line="73" column="27" />
+        <mark key="." line="73" column="27" />
+        <mark key="^" line="73" column="27" />
       </file>
       <file name="/Python Console" timestamp="1500742645632">
         <mark key="[" line="0" column="0" />
@@ -15,14 +15,41 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCgo=</text>
+      </register>
       <register name="&quot;" type="4">
         <text>_</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>year = str(d.year) + config.year_suffix</text>
       </register>
     </registers>
     <search>
@@ -30,11 +57,18 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>

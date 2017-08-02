@@ -9,6 +9,18 @@
         <mark key="." line="73" column="27" />
         <mark key="^" line="73" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/github.com/wassen/nippo.vim/src/entry_point.py" timestamp="1501688364652">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github.com/wassen/nippo.vim/vim.py" timestamp="1501688395396">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1500742645632">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,34 +28,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCgo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>_</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+        <text encoding="base64">IiIiCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHZpbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhcmcpOgogICAgICAgIHNlbGYubmlwcG9fZGF0ZSA9IGRhdGVfYmVmb3JlKHBhcnNlX2RhdGUoYXJnKSkKICAgICAgICBzZWxmLm5pcHBvX2RpciA9IG9zLnBhdGguam9pbihuaXBwb19ob21lX2RpcmVjdG9yeSwgeWVhciwgbW9udGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
